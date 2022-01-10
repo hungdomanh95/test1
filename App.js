@@ -4,7 +4,7 @@ import { View, Text, SafeAreaView,StyleSheet } from 'react-native'
 const App = () => {
   return (
     <SafeAreaView style={styles.container} >
-      <Text>App</Text>
+      <Text>App11111</Text>
     </SafeAreaView>
   )
 }
